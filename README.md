@@ -1,13 +1,15 @@
-# 📊 Superstore Sales Dashboard – Task 4
+# 📊 Task 4 – Superstore Sales Dashboard (ElevateLabs Internship)
+
+![Dashboard Preview](dashboard-preview.png)
 
 This project was completed as part of **Task 4** for the **ElevateLabs Data Analyst Internship**.  
-The goal was to design an **interactive Tableau dashboard** to analyze sales performance using a sample retail dataset.
+The objective was to design a clean, interactive dashboard using Tableau to explore and present sales data from the Sample Superstore dataset.
 
 ---
 
 ## 🧠 Objective
 
-To provide business stakeholders with a clear, interactive view of sales trends, product performance, and regional insights using a dashboard built in Tableau.
+To enable business stakeholders to easily analyze product, region, and category-level performance using a single-page interactive dashboard.
 
 ---
 
@@ -15,38 +17,38 @@ To provide business stakeholders with a clear, interactive view of sales trends,
 
 | File | Description |
 |------|-------------|
-| `Task4_Superstore_Dashboard.twbx` | Tableau workbook file |
-| `Task4_Summary_Presentation.pptx` | 5-slide summary presentation |
-| `Dashboard_Screenshot.png` | Full dashboard image |
-| `KPI_Screenshot.png` | Snapshot of key metrics |
+| `Task4_Superstore_Dashboard.twbx` | Tableau workbook |
+| `Task4_Summary_Presentation.pptx` | Summary presentation (5 slides) |
+| `dashboard-preview.png` | Screenshot of full dashboard |
+| `kpi-snapshot.png` | Screenshot of KPI cards |
 | `README.md` | This file |
 
 ---
 
-## 📊 Dashboard Highlights
+## 📊 Dashboard Features
 
-- 💰 **KPI Cards**: Total Sales, Total Profit, Total Quantity
-- 📈 **Sales Over Time by Category**: Trend lines for each category
-- 📍 **Sales by Region**: Regional comparison with profit coloring
-- 🧱 **Sales by Sub-Category**: Sorted bar chart showing product-level performance
-- 🎛️ **Interactive Filters**: Click on region/category to update other charts
+- 💰 **KPI Cards**: Total Sales, Profit, and Quantity
+- 📈 **Sales Trend**: Monthly sales by category
+- 🗺️ **Regional Analysis**: Sales by region with profit-based color
+- 📦 **Product View**: Sales by sub-category (sorted)
+- 🎛️ **Interactivity**: Click filters (e.g., region) to update entire dashboard
 
 ---
 
 ## 🔧 Tools Used
 
-- **Tableau Desktop** – for dashboard design
-- **Google Slides** – for presentation formatting
-- **Sample Superstore Dataset (.xls)** – as the data source
-- **GitHub** – for project delivery
+- **Tableau Desktop** – Dashboard development
+- **Google Slides** – Presentation
+- **Excel (Sample Superstore)** – Dataset
+- **GitHub** – Version control and submission
 
 ---
 
 ## 👤 Author
 
 **Preetham**  
-Task submitted for:  
-ElevateLabs Data Analyst Internship – 2025
+Submitted for the **ElevateLabs Data Analyst Internship – Task 4**
 
 ---
+
 
